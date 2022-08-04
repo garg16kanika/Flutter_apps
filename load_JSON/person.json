@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Kanika",
+        "gender" : "Female",
+        "year" : "2nd year",
+        "Institute" : "BITS"
+    },
+    {
+        "name": "Shreya",
+        "gender" : "Female",
+        "year" : "2nd year",
+        "Institute" : "BITS"
+    },
+    {
+        "name": "Shayna",
+        "gender" : "Female",
+        "year" : "2nd year",
+        "Institute" : "BITS"
+    },
+    {
+        "name": "Nilay",
+        "gender" : "male",
+        "year" : "2nd year",
+        "Institute" : "BITS"
+    }
+]
